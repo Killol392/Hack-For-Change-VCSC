@@ -622,6 +622,16 @@
     margin: 0px auto;
 }
 
+.about input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 120px;
+    max-width: 1200px;
+    font-size: 17px;
+}
+
 .abouttexth1 {
     font-size: 2rem;
     margin-top: 10px;
